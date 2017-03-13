@@ -1,0 +1,74 @@
+﻿  main.cpp
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\camera_class.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Player_class.cpp
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\player_class.cpp(81): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\player_class.cpp(81): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\player_class.cpp(95): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Interface2D.cpp
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(64): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(74): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(84): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(94): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(106): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(115): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(203): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(213): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(223): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(233): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(503): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(504): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(505): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\interface2d.cpp(506): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+  Incidents_class.cpp
+  Game_class.cpp
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\camera_class.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(75): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(86): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(87): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(90): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(91): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(100): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(104): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(108): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(112): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(750): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(753): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(757): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\game_class.cpp(760): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+  Camera_class.cpp
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\camera_class.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\beefeater\documents\visual studio 2015\projects\cmufinalversion\cmufinalversion\camera_class.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  cmufinalversion.vcxproj -> c:\users\beefeater\documents\visual studio 2015\Projects\cmufinalversion\Debug\cmufinalversion.exe
+  cmufinalversion.vcxproj -> c:\users\beefeater\documents\visual studio 2015\Projects\cmufinalversion\Debug\cmufinalversion.pdb (Full PDB)

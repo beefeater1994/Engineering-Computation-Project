@@ -1,0 +1,41 @@
+40
+Mechanical Design Engineer	1	0	3	0.6	0	0	0.4	0.7	80
+Product Design Engineer	2	3	0	0.3	0	0	0.7	0.7	80
+Mechanical Engineer	3	0	2	0.8	0.05	0.15	0	0.7	80
+Product Engineer	4	3	0	0.2	0.1	0.1	0.6	0.7	80
+Engineering Manager	5	0	1	0.5	0.26	0.24	0	0.7	80
+Manufacturing Engineer	6	0	3	0.6	0	0	0.4	0.7	80
+Quality Engineer	7	0	2	0.6	0.1	0.3	0	0.7	80
+Maintenance Engineer	8	1	2	0.2	0.4	0.4	0	0.7	80
+Optics Engineer	9	3	0	0.4	0	0.6	0	0.7	80
+Application Support Engineer	10	1	2	0	0.7	0.3	0	0.7	80
+Automotive Product Engineer	11	0	2	0.7	0	0.3	0	0.7	80
+IOS Developer	12	1	2	0	0.9	0.1	0	0.7	80
+Software Engineer	13	1	2	0	0.9	0.1	0	0.7	80
+Distributed Engineer	14	1	2	0	0.7	0.3	0	0.7	80
+Embedded Software Engineer	15	2	1	0	0.3	0.7	0	0.7	80
+Hardware Engineer	16	2	1	0	0.2	0.8	0	0.7	80
+Computer Vision Engineer	17	2	1	0	0.95	0.05	0	0.7	80
+Robotics Software  Engineer	18	1	2	0.1	0.5	0.4	0	0.7	80
+Software Developer	19	1	2	0	0.6	0.4	0	0.7	80
+Java Developer	20	1	2	0	0.8	0.2	0	0.7	80
+Robotics Control Systems Engineer	21	0	2	0.4	0.2	0.4	0	0.7	80
+Web Application Java Developer	22	1	2	0	0.8	0.2	0	0.7	80
+Imaging Systems Engineer	23	1	2	0	0.7	0.3	0	0.7	80
+Industrial Designer	24	0	2	0.8	0	0.2	0	0.7	80
+Product Manager	25	0	1	0.6	0	0	0.4	0.7	80
+Mobile Application Developer	26	1	2	0	0.8	0.2	0	0.7	80
+Automation Engineer	27	0	2	0.5	0	0.5	0	0.7	80
+Data Engineer	28	1	2	0	0.8	0.2	0	0.7	80
+Artificial Intelligence Research Engineer	29	1	2	0.05	0.9	0.15	0	0.7	80
+Front-End Developer	30	1	2	0	0.9	0.1	0	0.7	80
+Electronics Engineer	31	2	1	0	0.1	0.9	0	0.7	80
+Database and Big data performance engineer	32	1	2	0	0.9	0.1	0	0.7	80
+Cyber Security Scientist	33	1	2	0	0.95	0.05	0	0.7	80
+Cloud Computing Specialist	34	1	2	0	0.9	0.1	0	0.7	80
+Algo Developer	35	1	2	0	0.95	0.05	0	0.7	80
+Electrical Engineer	36	2	0	0.3	0.1	0.6	0	0.7	80
+Android Frame Devloper	37	2	1	0	0.3	0.7	0	0.7	80
+Machine Learning Researcher	38	1	0	0.2	0.8	0	0	0.7	80
+Systems Engineer	39	2	1	0	0.3	0.7	0	0.7	80
+Robotics Engineer	40	1	2	0.2	0.4	0.4	0	0.7	80
